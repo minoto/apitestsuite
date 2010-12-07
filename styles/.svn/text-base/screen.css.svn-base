@@ -1,0 +1,104 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family:'lucida grande',verdana,helvetica,arial,sans-serif;
+    font-size:90%;
+    margin: 0;
+   
+}
+
+h1 {
+	font-size: 100%;
+	margin-top: 0;
+}
+
+h2 {
+	font-size: 100%;
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+
+div#input {
+    width: 400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 8px;
+    height: 100%;
+    background-color: #DCECC2;
+    border-right: 1px solid #7F9958;
+}
+
+	div#input fieldset {
+	    margin-bottom: 10px;
+        border: 1px solid #7F9958;
+	}
+	
+	div#input legend {
+	    font-size: 80%;
+	    font-weight:bold;
+	}
+	
+	div#input label {
+	    font-size: 80%;
+	    width: 100px;
+	    display: block;
+	    float: left;
+	}
+    
+    div#input input[type=text],
+    div#input textarea,
+    div#input select {
+        width: 260px;
+    }
+    
+    div#input input,
+    div#input textarea,
+    div#input select {
+        border: 1px solid #7F9958;
+    }
+    
+    div#input #helpLink {
+        width: 400px;
+        text-align: center;
+    }
+    
+        div#input #helpLink img {
+            border: none;
+            }
+        
+    
+       
+
+    
+div#output {
+	padding: 8px;
+    position: absolute;
+    left: 417px;
+    top: 0;
+}
+
+	div#output table {
+	    font-size:80%;
+	    border-collapse: collapse;
+	}
+	
+	   div#output table th{
+	        text-align: left;
+	        font-weight: bold;
+	        background-color: #dddddd;
+	        
+	    }
+	    
+	    div#output table th,
+	    div#output table td {
+	       border: 1px solid #bbbbbb;
+	       padding-left: 5px;
+	       padding-right: 5px;
+	    }
+	    
+	div#output a {
+	   text-decoration: none;
+	   font-weight: bold;
+	   color: inherit;
+	}

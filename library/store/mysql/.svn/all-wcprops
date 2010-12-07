@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/mvp/!svn/ver/1137/oauthresttest/trunk/library/store/mysql
+END
+mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mvp/!svn/ver/1137/oauthresttest/trunk/library/store/mysql/mysql.sql
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mvp/!svn/ver/1137/oauthresttest/trunk/library/store/mysql/install.php
+END

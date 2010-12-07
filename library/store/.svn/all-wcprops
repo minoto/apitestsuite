@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/mvp/!svn/ver/1137/oauthresttest/trunk/library/store
+END
+OAuthStoreAnyMeta.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mvp/!svn/ver/1137/oauthresttest/trunk/library/store/OAuthStoreAnyMeta.php
+END
+OAuthStoreMySQL.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mvp/!svn/ver/1137/oauthresttest/trunk/library/store/OAuthStoreMySQL.php
+END
+OAuthStoreAbstract.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mvp/!svn/ver/1137/oauthresttest/trunk/library/store/OAuthStoreAbstract.class.php
+END
+OAuthStore2Legged.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mvp/!svn/ver/1137/oauthresttest/trunk/library/store/OAuthStore2Legged.php
+END
