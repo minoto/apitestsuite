@@ -1,4 +1,4 @@
 MVP API Client
 =============
 
-This is a client library for the MVP API.
+This is a web application that can be used to try out the MVP API.
